@@ -1,12 +1,10 @@
 # Cartões com nomes de filmes atuais
 
-Este website, foi produzido com o o intuito de mostrar o nome e a decrição dos atuais filmes que estão em cartaz no [Cineflix](https://www.cineflix.com.br/)
-
 ![Screenshot da Aplicação](https://github.com/Jouberly/website-filmes-atuais/assets/143310600/115ec751-3e90-4fd9-85f4-f1526cea0ed4)
 
 ## Informações
 
-1. Acesse a [página do website]([https://gerador-senha-ochre.vercel.app/](https://filmes-atuais.vercel.app/)
+1. Acesse a [página do website](https://gerador-senha-ochre.vercel.app/](https://filmes-atuais.vercel.app/)
 2. Clique no nome "Assistir ao trailer" para ser redirecionado ao video oficial do trailer do filme escolhdido.
 3. Ao passar o cursor do mouse sobre os cartões, ele ficará com as bordas em degradê esbranquiçado.
 
